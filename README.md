@@ -1,6 +1,6 @@
 # Kubez-ansible Overview
 
-该项目为 [kubez-ansible](https://github.com/pixiu-io/kubez-ansible) 子项目，用于适配国产化系统和ARM架构
+该项目为 [kubez-ansible](https://github.com/pixiu-io/kubez-ansible) 子项目，用于支持国产化系统和ARM架构的离线部署
 
 ![Build Status][build-url]
 [![Release][release-image]][release-url]
