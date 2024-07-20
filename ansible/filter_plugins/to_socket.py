@@ -49,6 +49,7 @@ def get_runtime_type(ctx, *args, **kwargs):
     kube_group = kwargs.get('kube_group')
     return RUNTIME_MAP[kube_group]
 
+
 class FilterModule(object):
     '''Kubez-ansible custom jinja2 filters '''
 
