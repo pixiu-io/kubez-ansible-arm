@@ -165,7 +165,7 @@ helm_image: "harbor.cloud.pixiuio.com/pixiuio/helm-toolbox:{{ helm_release }}"
 #######################
 # StorageClass Options
 #######################
-enable_nfs: "yes"
+enable_nfs: "no"
 enable_nfs_csi: "{{ enable_nfs }}"
 
 nfs_cidr: "*"
